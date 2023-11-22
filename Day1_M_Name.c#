@@ -1,17 +1,17 @@
 Workbook: Meaningful names
 
-1) Review1.cs
+1) review1.cs
 int elapsedTimeInDays;
 
-2) Review2.cs
+2) review2.cs
 List<Employee> listOfEmployees = _employeeService.GetEmployees().ToList();
 
-3) Review3.cs
+3) review3.cs
 int counter;
 string fullName;
 DateTime modifiedDate;
 
-4) Review4.cs
+4) review4.cs
 public bool IsShopOpen(string day, int amount)
 {
     // some logic
